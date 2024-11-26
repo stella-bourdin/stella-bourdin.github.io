@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full cv in PDF >>> [Here](../_files/cv.pdf) <<<
+You can find my full cv in PDF >> [Here](../_files/cv.pdf) <<
 Below is a summary of my main experiences.
 
 Education
