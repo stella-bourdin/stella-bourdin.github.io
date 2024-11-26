@@ -10,38 +10,25 @@ redirect_from:
 {% include base_path %}
 
 You can find my full cv in PDF >>> [Here](../_files/cv.pdf) <<<
+Below is a summary of my main experiences.
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geosciences from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), 2024
+* MSc. in Physics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), 2020: Major in Heat transfer & fluid dynamics
+* Engineering degree (MSc.) from [Ecole Centrale Paris](https://www.centralesupelec.fr/), 2020: Major in Energy
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since March 2024: Post-doctoral research associate in the Huracán project
+  * University of Oxford
+  * Supervisor: Antje Weisheimer, Pier-Luigi Vidale
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* --- In construction ---
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+--- In construction ---
 
 Publications
 ======
@@ -63,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* --- In construction ---
