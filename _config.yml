@@ -29,7 +29,8 @@ author:
   employer         : "University of Oxford"
   uri              : # URL
   email            : "stella.bourdin[at]physics.ox.ac.uk" 
-
+  cv               : "https://stella-bourdin.github.io/files/CV.pdf"
+  
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=2joH5WgAAAAJ"
