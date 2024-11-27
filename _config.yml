@@ -21,7 +21,7 @@ repository               : "stella-bourdin/stella-bourdin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Stella Bourdin"
   pronouns         : "she/her"  
   bio              : "I am a researcher investigating cyclones in a changing climate."
