@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full cv in PDF >> [Here](../_files/CV.pdf) <<
+You can find my full cv in PDF >> [Here](https://stella-bourdin.github.io/files/CV.pdf) <<
 Below is a summary of my main experiences.
 
 Research experience
 ======
-[//]: # TODO: Add links, also add specific references for this part?
 * Since March 2024 (2 years): Post-doctoral research associate in the Huracán project
   * University of Oxford
   * Supervisors: Antje Weisheimer, Pier-Luigi Vidale
@@ -43,38 +42,29 @@ Education
 * MSc. in Physics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), 2020: Major in Heat transfer & fluid dynamics
 * Engineering degree (MSc.) from [Ecole Centrale Paris](https://www.centralesupelec.fr/), 2020: Major in Energy
 
-Funding
-======
-* ICOCYCLONES 2: IPSL research grant (Principal Investigator)
-  * 8.500€
-  * Funding for travels and materials for my PhD thesis
-* [TROPICANA](TODO): Institut Pascal 1-month research program (Co-organizer)
-  * About 100.000€
+[//]:Funding
+[//]:======
+[//]:* ICOCYCLONES 2: IPSL research grant (Principal Investigator)
+[//]:  * 8.500€
+[//]:  * Funding for travels and materials for my PhD thesis
+[//]:* [TROPICANA](TODO): Institut Pascal 1-month research program (Co-organizer)
+[//]:  * About 100.000€
   
-Skills (incomplete)
-======
-[//]: # TODO: Add references supporting each claim
-Soft skills:
-* Oral and written academic and media communication
-General technical skills
-* Manipulating big climate datasets (∝100TB): bash, cdo, nco
-* Advanced Python, including data analysis packages (pandas, xarray, dask) and package creation (See HuracanPy, CPyS)
-Specific technical skills
-* Cyclone modelling (GCMs, seasonal forecast models, statistical-dynamical models)
-* Cyclone analysis (tracking, analysis, cyclone phase space, clustering)
+[//]:Skills 
+[//]:======
+[//]:
+[//]:Soft skills:
+[//]:* Oral and written academic and public communication
+[//]:* Project management and team work
+[//]:
+[//]:General technical skills
+[//]:* Manipulating big climate datasets (∝100TB): bash, cdo, nco
+[//]:* Advanced Python, including data analysis packages (pandas, xarray, dask) and package creation (See HuracanPy, CPyS)
+[//]:
+[//]:Specific technical skills
+[//]:* Cyclone modelling (GCMs, seasonal forecast models, statistical-dynamical models)
+[//]:* Cyclone analysis (tracking, analysis, cyclone phase space, clustering)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -83,16 +73,12 @@ Teaching
   
 Service and leadership
 ======
-I was one of the main organizers of [TROPICANA](TODO), a one-month research program at the [Institut Pascal](TODO) dedicated to the understanding of Mediterranean and Tropical Cyclones in a changing climate ([BAMS Paper](TODO))
+I was one of the main organizers of [TROPICANA](https://indico.ijclab.in2p3.fr/event/9843/), a one-month research program at the [Institut Pascal](https://www.universite-paris-saclay.fr/institut-pascal/) dedicated to the understanding of Mediterranean and Tropical Cyclones in a changing climate ([BAMS Report](https://journals.ametsoc.org/view/journals/bams/105/12/BAMS-D-24-0252.1.xml))
 
 I served as Representative of PhD students and non-permanent staff at the LSCE Lab Council for two years. I am now a post-doc member of the AOPP Postgrad society. 
 
 I completed 5 peer-reviews, for journals including WCE, IJCC, ESE, JOSS.
 
-Media
-======
+[//]:Media
+[//]:======
 [//]: # TODO: Do something similar to publications and talks
-
-References
-======
-
