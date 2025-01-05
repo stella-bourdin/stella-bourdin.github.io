@@ -42,29 +42,6 @@ Education
 * MSc. in Physics from [Université Paris-Saclay](https://www.universite-paris-saclay.fr/), 2020: Major in Heat transfer & fluid dynamics
 * Engineering degree (MSc.) from [Ecole Centrale Paris](https://www.centralesupelec.fr/), 2020: Major in Energy
 
-[//]:Funding
-[//]:======
-[//]:* ICOCYCLONES 2: IPSL research grant (Principal Investigator)
-[//]:  * 8.500€
-[//]:  * Funding for travels and materials for my PhD thesis
-[//]:* [TROPICANA](TODO): Institut Pascal 1-month research program (Co-organizer)
-[//]:  * About 100.000€
-  
-[//]:Skills 
-[//]:======
-[//]:
-[//]:Soft skills:
-[//]:* Oral and written academic and public communication
-[//]:* Project management and team work
-[//]:
-[//]:General technical skills
-[//]:* Manipulating big climate datasets (∝100TB): bash, cdo, nco
-[//]:* Advanced Python, including data analysis packages (pandas, xarray, dask) and package creation (See HuracanPy, CPyS)
-[//]:
-[//]:Specific technical skills
-[//]:* Cyclone modelling (GCMs, seasonal forecast models, statistical-dynamical models)
-[//]:* Cyclone analysis (tracking, analysis, cyclone phase space, clustering)
-
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -77,8 +54,4 @@ I was one of the main organizers of [TROPICANA](https://indico.ijclab.in2p3.fr/e
 
 I served as Representative of PhD students and non-permanent staff at the LSCE Lab Council for two years. I am now a post-doc member of the AOPP Postgrad society. 
 
-I completed 5 peer-reviews, for journals including WCE, IJCC, ESE, JOSS.
-
-[//]:Media
-[//]:======
-[//]: # TODO: Do something similar to publications and talks
+I completed 6 peer-reviews, for journals including WCE, IJCC, ESE, JOSS, JoC.
