@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Bourdin-2022-GMD
 excerpt: 'Outcome of my PhD thesis: A methodological paper on tropical cyclone tracking.'
-date: 2022
+date: 2022-09-01
 venue: 'Geoscientific Model Development (GMD)'
 paperurl: 'http://academicpages.github.io/files/Bourdin-2022-GMD.pdf'
 citation: 'Bourdin, S.; Fromang, S.; Dulac, W.; Cattiaux, J.; Chauvin, F. (2022). &quot;Intercomparison of four algorithms for detecting tropical cyclones using ERA5.&quot; <i>Geoscientific Model Development (GMD)</i>. 1(2).'
