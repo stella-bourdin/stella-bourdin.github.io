@@ -1,0 +1,13 @@
+---
+title: "Modélisation de la circulation atmosphérique (Atmospheric circulation modelling)"
+collection: teaching
+type: "Bloc thématique (TP)"
+permalink: /teaching/2015-spring-teaching-1
+venue: "CentraleSupélec, Enseignement de mécanique des fluides"
+date: 2023-06-01
+location: "Gif-sur-Yvette, France"
+---
+
+At the request of CentraleSupelec's Fluid Mechanics professor, I created this 9h (3x3h) practical on Atmospheric Circulation. 
+It consists in teaching the students how to run a Atmospheric Global Climate Model (LMDZ), 
+and letting them create experiments to answer their own atmospheric circulation questions.
