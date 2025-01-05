@@ -3,8 +3,7 @@ title: "Dependence of climate sensitivity on the given distribution of relative 
 collection: publications
 category: manuscripts
 permalink: /publication/Bourdin-2021-GRL
-excerpt: 'Outcome of my master thesis: An investigation of the role of relative humidity for climate sensitvity with a 1D-RCE model.'
-date: 2021
+excerpt: 'Outcome of my master thesis: An investigation of the role of relative humidity for climate sensitivity with a 1D-RCE model.'
 venue: 'Geophysical Research Letters (GRL)'
 paperurl: 'http://academicpages.github.io/files/Bourdin-2021-GRL.pdf'
 citation: 'Bourdin, Stella; Kluft, Lukas; Stevens, Bjorn. (2021). &quot;Dependence of climate sensitivity on the given distribution of relative humidity.&quot; <i>Geophysical Research Letters (GRL)</i>. 1(1).'
