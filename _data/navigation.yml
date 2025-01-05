@@ -17,14 +17,14 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Media"
-    url: /media/
+#  - title: "Media"
+#    url: /media/
 
-  - title: "TROPICANA"
-    url: /tropicana/
+#  - title: "TROPICANA"
+#    url: /tropicana/
 
 #  - title: "Talks"
 #    url: /talks/
 
-  - title: "Useful links"
-    url: /useful/
+#  - title: "Useful links"
+#    url: /useful/
