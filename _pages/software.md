@@ -15,4 +15,4 @@ At the moment, I have two main projects:
 * [HuracanPy](https://github.com/Huracan-project/huracanpy): Reading and performing basic analyses on cyclone track data.
 * [CPyS](https://github.com/stella-bourdin/CPyS): Efficient computation of the cyclone phase space parameters (in combination with [TempestExtremes](https://climate.ucdavis.edu/tempestextremes.php)).
 
-* You can check out my [GitHub profile](https://github.com/stella-bourdin).
+You can check out my [GitHub profile](https://github.com/stella-bourdin).
