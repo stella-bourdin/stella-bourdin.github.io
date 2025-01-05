@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Bourdin-2024-CD
 excerpt: 'Outcome of my PhD: Assessment of Tropical Cyclones representation in a series of simulations with the IPSL model at high resolution.'
-date: 2024
+date: 2024-01-01
 venue: 'Climate Dynamics (CD)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Bourdin, S.; Fromang, S.; Caubel, A.; Ghattas, J.; Meurdesoif, Y.; Dubos, T. (2024). &quot;Tropical Cyclones in Global High-Resolution Simulations using the IPSL Model.&quot; <i>Climate Dynamics (CD)</i>. 1(3).'
