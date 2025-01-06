@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Hello, this is my website, it is currently under construction."
+title: "Dr. Stella Bourdin, Climate Scientist."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-In the meantime, please checkout my links of the left-hand side bar and/or [my page on the website of the University of Oxford](https://www.physics.ox.ac.uk/our-people/bourdin), and my [CV](../files/CV.pdf)..
-
-![../images/wordcloud.png]
+![My Research in a Word Cloud](../images/wordcloud.png)
 
 I am currently a post-doctoral research associate at the University of Oxford, within the [Huracán project](https://research.reading.ac.uk/huracan/about-huracan/project-overview/). I obtained my PhD in Geosciences from the Université Paris-Saclay, under the direction of Sébastien Fromang at the LSCE-IPSL, with a thesis intitled ["Tropical and Mediterranean Cyclone in the IPSL Climate Model: detection and assessment"](https://theses.hal.science/tel-04585459)
 
@@ -28,3 +26,4 @@ I am also passionate about open science. In particular, I invest time in develop
 * [HuracanPy](https://github.com/Huracan-project/huracanpy): Reading and performing basic analyses on cyclone track data
 * [CPyS](https://github.com/stella-bourdin/CPyS): Efficient computation of the cyclone phase space parameters (in combination with [TempestExtremes](https://climate.ucdavis.edu/tempestextremes.php)).
 
+[CV](../files/CV.pdf).
